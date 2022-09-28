@@ -1,0 +1,1 @@
+# infinispan-js-client-ts-support-test
